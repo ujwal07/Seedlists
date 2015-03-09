@@ -1,0 +1,24 @@
+The disambiguated seeds in the FINANCE seedlist are presented below.
+
+http://dbpedia.org/resource/Federal_Reserve
+http://dbpedia.org/resource/Wall_Street
+http://dbpedia.org/resource/Securities_and_Exchange_Commission
+http://dbpedia.org/resource/Barclays_Global_Investors
+http://dbpedia.org/resource/Invesco_Private_Capital
+http://dbpedia.org/resource/World_Economic_Forum
+http://dbpedia.org/resource/Mario_Monti
+http://dbpedia.org/resource/Michel_David-Weill
+http://dbpedia.org/resource/Refco
+http://dbpedia.org/resource/George_Soros
+http://dbpedia.org/resource/Larry_Ellison
+http://dbpedia.org/resource/Evercore_Partners
+http://dbpedia.org/resource/Bruce_Wasserstein
+http://dbpedia.org/resource/Merrill_Lynch
+http://dbpedia.org/resource/Ameriprise_Financial
+http://dbpedia.org/resource/Quadrangle_Group
+http://dbpedia.org/resource/Goldman_Sachs
+http://dbpedia.org/resource/Treasury
+http://dbpedia.org/resource/Credit_Suisse
+http://dbpedia.org/resource/General_Motors
+http://dbpedia.org/resource/Ben_S._Bernanke
+http://dbpedia.org/resource/Lazard

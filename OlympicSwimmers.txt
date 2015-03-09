@@ -1,1 +1,19 @@
 
+
+http://dbpedia.org/resource/Michael_Phelps
+http://dbpedia.org/resource/Grant_Hackett
+http://dbpedia.org/resource/Katie_Hoff
+http://dbpedia.org/resource/Natalie_Coughlin
+http://dbpedia.org/resource/Ian_Crocker
+http://dbpedia.org/resource/Jenny_Thompson
+http://dbpedia.org/resource/Amanda_Beard
+http://dbpedia.org/resource/Brooke_Bennett
+http://dbpedia.org/resource/Larsen_Jensen
+http://dbpedia.org/resource/Ian_Thorpe
+http://dbpedia.org/resource/Razvan_Florea
+http://dbpedia.org/resource/Markus_Rogan
+http://dbpedia.org/resource/Aaron_Peirsol
+http://dbpedia.org/resource/Diana_Munz
+http://dbpedia.org/resource/Leisel_Jones
+http://dbpedia.org/resource/Inge_de_Bruijn
+http://dbpedia.org/resource/Mark_Spitz

@@ -1,4 +1,4 @@
-
+The disambiguated seeds in the OLYMPIC SWIMMERS seedlist are presented below.
 
 http://dbpedia.org/resource/Michael_Phelps
 http://dbpedia.org/resource/Grant_Hackett
